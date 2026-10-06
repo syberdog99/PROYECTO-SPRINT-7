@@ -5,4 +5,7 @@ en este proyecto, se creo una aplicacion con dos botones para ver un histograma 
 
 El link de render : https://proyecto-sprint-7-kufz.onrender.com
 descripcion del proyecto: 
+
 En el archivo de app.py se crean graficos 
+
+En requirements.txt se llama a las librerias que ocupamos en el proyecto pandas, plotly y streamlit
